@@ -2,5 +2,6 @@
 
 - Descripcion del sistema
 - Contenido
-- Codigo
+- Codigo Fuente
 - Resumen
+- Colaboraciones
